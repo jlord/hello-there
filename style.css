@@ -1,0 +1,31 @@
+body {
+  background: #f4f7ff;
+  padding: 40px;
+  font-family: Helvetica, Arial, sans-serif;
+  color: #4E5158;
+}
+
+h2 {
+  padding-top: 30px;
+}
+
+img {
+  border-radius: 999px;
+  width: 200px;
+}
+
+a {
+  color: #4E5158;
+  text-decoration: none;
+  border-bottom: 1px dotted #DCD47A;
+  padding-bottom: 1px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+.leading-paragraph {
+  color: #8998C1;
+}
