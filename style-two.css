@@ -1,0 +1,41 @@
+html, body {
+  height: 100%
+}
+
+body {
+  background: #fff;
+  padding: 20px 0 0 80px;
+  margin: 0;
+  font-family: Georgia, serif;
+  color: #3E3633;
+  border: 10px solid #0068FF;
+}
+
+h1 {
+  font-size: 46px;
+}
+
+h2 {
+  padding-top: 30px;
+}
+
+img {
+  border-radius: 4px;
+  width: 200px;
+  margin-bottom: 40px;
+}
+
+a {
+  color: #777;
+  text-decoration: none;
+  border-bottom: 1px solid #CCFF26;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+.leading-paragraph {
+  text-transform: uppercase;
+}
